@@ -100,7 +100,7 @@ button:hover{
     font-size: 10px;
 }
 
-.whatsapp-link {
+.whatsapp-link{
     position: fixed;
     width: 60px;
     height: 60px;
@@ -115,7 +115,7 @@ button:hover{
     z-index: 1000;
 }
 
-.fa-whatsapp {
+.fa-whatsapp{
     margin-top: 16px;
 }
 
